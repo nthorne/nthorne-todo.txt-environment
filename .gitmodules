@@ -1,3 +1,6 @@
 [submodule "actions/again"]
 	path = actions/again
 	url = https://github.com/nthorne/todo.txt-cli-again-addon.git
+[submodule "actions/edit"]
+	path = actions/edit
+	url = https://github.com/nthorne/todo.txt-addon-edit.git
